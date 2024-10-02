@@ -263,24 +263,24 @@ params:
         url: https://drive.google.com/file/d/12Ranq4bvSkxFwZMY98DNeC3V-Dn9CEmp/view
         image: images/achievements/ecpc.png
 
+      - title: Solved 350+ problems on the competitive programming website Codeforces.
+        url: https://codeforces.com/profile/Akayiz
+        image: images/achievements/codeforces.jpg
+
       - title: 2nd place in OSC's UI/UX workshop
         url: https://drive.google.com/file/d/1FA-cZfgYuJHHi2l4pmwwnDs_i9283uTO/view
         content: Received 2nd place in Open-source Community (OSC) student activity's UI/UX workshop from 20+ teams, based on innovation and creativity.
         image: images/achievements/ui_ux_design.png
 
       - title: Participated in Python Discord's 2021 Summer Code Jam
-        content: Ranked 42nd out of 200+ teams using C++, Data Structures, and Algorithms.
+        content: Finished in 11 days a Text User Interface Python Game with a team of 5 random individuals.
         url: https://github.com/Ahmed-Khaled-dev/modern-meerkats
         image: images/achievements/codejam.webp
 
-      - title: Solved 350+ problems on the competitive programming website Codeforces.
-        url: https://codeforces.com/profile/Akayiz
-        image: images/achievements/codeforces.jpg
-
-      - title: Competed in ECPC, Egyptian Collegiate Programming Qualifications Contest 2023
-        content: Ranked 42nd out of 200+ teams using C++, Data Structures, and Algorithms.
-        url: https://drive.google.com/file/d/12Ranq4bvSkxFwZMY98DNeC3V-Dn9CEmp/view
-        image: images/achievements/ecpc.png
+      - title: Participated in Python Discord's 2021 Pixels Event
+        content: Practiced interacting with an API to paint pixels on a virtual canvas using Python.
+        url: https://www.pythondiscord.com/events/pixels/
+        image: images/achievements/pixels.jpg
 
   #Contact
   contact:
