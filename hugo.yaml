@@ -125,7 +125,7 @@ params:
     intro: "Hi, my name is"
     title: "Ahmed Khaled."
     subtitle: "I improve businesses using Software Engineering."
-    content: "A well-rounded Software Engineer and Google Summer of Code 2024 participant, combining academic studies, technical knowledge, work experience, and interpersonal skills."
+    content: "A well-rounded Software Engineer and Google Summer of Code 2024 participant, combining academic studies, technical knowledge, work experience, and interpersonal skills. I also enjoy travel, hiking, music, and gaming."
     image: /images/profile_picture.jpeg
     bottomImage:
       enable: true
@@ -286,9 +286,9 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    content: My inbox is always open. Whether you have a question or just want to say hi!
+    btnName: Send me an email
+    btnLink: mailto:ahmed.khaled.yousry@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
@@ -304,11 +304,11 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/Ahmed-Khaled-dev
+      linkedin: https://www.linkedin.com/in/akayiz/
+      #twitter: https://twitter.com
+      #instagram: https://instagram.com
+      #facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
