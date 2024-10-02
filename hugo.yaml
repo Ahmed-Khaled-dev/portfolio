@@ -156,16 +156,16 @@ params:
         date: "July 2024 - Oct 2024"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://ahmed.khaled.yousry.org/blogs/gsoc-2024-final-report/"
           name: "Contributions Summary"
         info:
           enable: false
           content: 
         content: |
-          - Automated the generation of release notes when a new GitHub release is created, eliminating manual effort for release notes creation by creating the [Release Notes Manager](https://github.com/Ahmed-Khaled-dev/release-notes-manager) using C++, GitHub Actions, Git, and GitHub API.
+          - Automated the generation of release notes when a new GitHub release is created, eliminating manual effort for release notes creation by creating the [<font color="007bff">Release Notes Manager</font>](https://github.com/Ahmed-Khaled-dev/release-notes-manager) using C++, GitHub Actions, Git, and GitHub API.
           - Automated showing contributors how their pull requests will affect the release notes, this aims to enhance the pull requests and release notes descriptions and gives Synfig's pull requests a more professional feel to attract more contributors.
-          - Improved accessibility for users by making Synfig easy to use on any Linux distribution by packaging it into an [AppImage](https://appimage.org/) using [bash scripts](https://github.com/Ahmed-Khaled-dev/synfig-appimage) and testing it on 6 Linux distributions.
-          - Ensured code quality, maintainability, and clear communication by adding unit tests (doctest), detailed code documentation (doxygen) and sending [weekly status updates](https://github.com/synfig/synfig/issues/3377).
+          - Improved accessibility for users by making Synfig easy to use on any Linux distribution by packaging it into an AppImage using [<font color="007bff">bash scripts</font>](https://github.com/Ahmed-Khaled-dev/synfig-appimage) and testing it on 6 Linux distributions.
+          - Ensured code quality, maintainability, and clear communication by adding unit tests (doctest), detailed code documentation (doxygen) and sending [<font color="007bff">weekly status updates</font>](https://github.com/synfig/synfig/issues/3377).
 
   # Education
   education:
@@ -181,7 +181,7 @@ params:
         GPA: "3.877/4.0 (First in class, Year 1)"
         content: |-
             Extra-Curricular Activities:
-            - Instructor at Open-source Community student activity in which I taught 100+ students [Git and GitHub](https://www.linkedin.com/posts/akayiz_git-github-opensource-activity-7175521801928667136-VqW_/), Linux text processing, and Regex [on-site](https://www.linkedin.com/posts/akayiz_i-am-very-glad-to-have-had-the-opportunity-activity-7112386229941207041-wjlS/). Over 95% of the students' feedback was positive.
+            - Instructor at Open-source Community student activity in which I taught 100+ students [<font color="007bff">Git and GitHub</font>](https://www.linkedin.com/posts/akayiz_git-github-opensource-activity-7175521801928667136-VqW_/), Linux text processing, and Regex [<font color="007bff">on-site</font>](https://www.linkedin.com/posts/akayiz_i-am-very-glad-to-have-had-the-opportunity-activity-7112386229941207041-wjlS/). Over 95% of the student's feedback was positive.
             - Trainee at acmASCIS student activity in which I completed levels 1 and 2 in problem-solving using C++, Topics (Optimization, Complexity Analysis, Number theory, Data structures, and Algorithms).
 
   # Projects
@@ -286,7 +286,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi!
+    content: My inbox is always open. Whether you have a question or want to say hi!
     btnName: Send me an email
     btnLink: mailto:ahmed.khaled.yousry@gmail.com
     # formspree:
@@ -321,9 +321,9 @@ params:
       enable: true
       content: "min read"
     scrollprogress:
-      enable: true
+      enable: false
     tags:
-      openInNewTab: true
+      openInNewTab: false
 
   # For translations
   terms:
